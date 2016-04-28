@@ -3,6 +3,9 @@ Assignment: Getting and Cleaning Data Course Project
 The repo includes the Readme.md, a code book (to indicate all the variables and summaries calculated, along with units, and any other 
 relevant information) and R script (run_analysis.R):
 
+# Please run the R code with the relevant dataset (you should change the path of the dataset dirctory in your lcoal computer or url)
+# Please read code book describing the variables
+
 # Review criterialess 
 1) The submitted data set is tidy.
 2) The Github repo contains the required scripts.
