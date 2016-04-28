@@ -60,3 +60,5 @@ The consoldiated dataset between test and training by name variables according t
 "datafeatures" table being generated in the R code covers name variables according to feature;
 I created a new data table with all the average measures of subject and activity type. The output file is called TidyData.txt 
 (uploaded under this repo).
+
+Attached with the repo: TidyData.txt and run_analysis.R
